@@ -1,0 +1,14 @@
+To Ascii
+
+quick and dirty text to ascii generator
+
+--text -t "the is the text"
+--color -c color
+--bgColor -b color
+--font -f "font name"
+
+get a list of fonts with
+--fonts
+
+get a list of colors with
+--colors --bgColors

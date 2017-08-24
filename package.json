@@ -1,0 +1,19 @@
+{
+  "name": "toascii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "toascii": "bin/toascii"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "chance": "^1.0.10",
+    "change-case": "^3.0.1",
+    "figlet": "^1.2.0",
+    "yargs": "^8.0.2"
+  }
+}
