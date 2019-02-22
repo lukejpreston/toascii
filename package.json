@@ -1,6 +1,9 @@
 {
   "name": "@lukejpreston/toascii",
   "version": "1.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "",
   "main": "index.js",
   "bin": {
