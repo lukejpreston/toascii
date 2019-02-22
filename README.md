@@ -1,6 +1,6 @@
 # To Ascii
 
-install with `npm i -g toascii`
+install with `npm i -g @lukejpreston/toascii`
 
 quick and dirty text to ascii generator
 
